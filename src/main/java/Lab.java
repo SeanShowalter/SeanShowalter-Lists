@@ -27,7 +27,7 @@ public class Lab {
      *
      * A popular implementation of List is ArrayList. Look up how to instantiate one.
      *
-     * @return a List<Integer> object.
+     * @return a List<Integer> object. 
      */
     public List<Integer> createList() {
         return new ArrayList<>();
